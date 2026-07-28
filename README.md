@@ -33,6 +33,6 @@ I am a Full-Stack & Mobile Developer passionate about building scalable web appl
 ---
 
 ### 🤝 Connect with Me
-- 💼 **LinkedIn:** [(https://://linkedin.com)](https://www.linkedin.com/in/john-kipruto-81005121b/)
+- 💼 **LinkedIn:** [(https://www.linkedin.com/in/john-kipruto-81005121b/)]
 - 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 🌐 **Portfolio:** [yourportfolio.com](https://john-kipruto.vercel.app/)
+- 🌐 **Portfolio:** [](https://john-kipruto.vercel.app/)
