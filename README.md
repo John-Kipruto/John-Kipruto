@@ -16,10 +16,11 @@ I am a Full-Stack & Mobile Developer passionate about building scalable web appl
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend & Mobile** | ![Next.js](https://shields.io) ![React Native](https://shields.io) ![React](https://shields.io) |
-| **Backend & Runtime** | ![NestJS](https://shields.io) ![Node.js](https://shields.io) ![TypeScript](https://shields.io) |
-| **Databases & ORMs** | ![PostgreSQL](https://shields.io) ![MongoDB](https://shields.io) ![Prisma](https://shields.io) |
-| **DevOps & Tools** | ![Docker](https://shields.io) ![Git](https://shields.io) |
+| **Frontend & Mobile** | <img src="https://shields.io" alt="Next.js" /> <img src="https://shields.io" alt="React Native" /> <img src="https://shields.io" alt="React" /> |
+| **Backend & Runtime** | <img src="https://shields.io" alt="NestJS" /> <img src="https://shields.io" alt="Node.js" /> <img src="https://shields.io" alt="TypeScript" /> |
+| **Databases & ORMs**  | <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="MongoDB" /> <img src="https://shields.io" alt="Prisma" /> |
+| **DevOps & Tools**    | <img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="Git" /> |
+
 
 ---
 
@@ -34,5 +35,5 @@ I am a Full-Stack & Mobile Developer passionate about building scalable web appl
 
 ### 🤝 Connect with Me
 - 💼 **LinkedIn:** [(https://www.linkedin.com/in/john-kipruto-81005121b/)]
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 🌐 **Portfolio:** [](https://john-kipruto.vercel.app/)
+- 📧 **Email:** [(mailto:johnkipruto157@gmail.com)]
+- 🌐 **Portfolio:** [(https://john-kipruto.vercel.app/)]
